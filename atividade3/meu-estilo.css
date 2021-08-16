@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body{
+    height: 1000px;
+    background-color:  lightblue;
+    background-image: url(https://media.giphy.com/media/y6aDJi4UcT2ow/giphy.gif);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment:fixed;
+}
+h1{
+   background-color: green;
+   color: white;
+}
